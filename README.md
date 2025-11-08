@@ -1,7 +1,7 @@
 # studymatchdart
 A study matching app for students at Dartmouth
 
-# StudyMatch 🎓
+# StudyMatch
 
 **Category:** Campus Life / Academic Support  
 **Submission:** BuildWithClaude @ Dartmouth
