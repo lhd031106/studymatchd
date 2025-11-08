@@ -19,7 +19,7 @@ StudyMatch connects students in **the same class or section** who share:
 
 Built with **Python + Streamlit**, it runs locally or on the web in one click.
 
-## ⚙️ Run locally
+## Run locally
 ```bash
 pip install -r requirements.txt
 streamlit run studymatch.py
